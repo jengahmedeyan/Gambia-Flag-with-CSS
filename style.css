@@ -24,7 +24,7 @@
   top: 53%;
   left: -196px;
   content: " ";
-  background-color: rgb(43, 39, 39);
+  background-color: rgb(14, 10, 10);
   width: 400px;
   height: 10px;
   z-index: 99;
@@ -37,7 +37,7 @@
   top: -5%;
   left: -1.7%;
   content: " ";
-  background-color: rgb(43, 39, 39);
+  background-color: rgb(14, 10, 10);
   width: 20px;
   height: 20px;
   border-radius: 50%;
